@@ -1,4 +1,27 @@
 Project,Category,Funding Round,Amount,Investors,Funding Date
+Rift,DeFi,Undisclosed,$8.00M,Paradigm,"Nov 08, 2025"
+Kyo Finance,DeFi,Series A,$5.00M,"BuzzBridge Capital
+Castrum Capital
+TB Ventures
+…","Nov 07, 2025"
+commonware,Infrastructure,Undisclosed,$25.00M,Tempo,"Nov 07, 2025"
+Sprinter,Infrastructure,Seed,$5.20M,"Robot Ventures
+Atka
+Topology Ventures
+…","Nov 06, 2025"
+Funes,Infrastructure,Undisclosed,--,YZi Labs (Formerly: Binance Labs),"Nov 06, 2025"
+fomo,DeFi,Series A,$17.00M,"Benchmark
+Coinbase Ventures
+Archetype
+…","Nov 06, 2025"
+Harmonic,Infrastructure,Seed,$6.00M,Paradigm,"Nov 05, 2025"
+"Ripple
+XRP",Infrastructure,Undisclosed,$500.00M,"Pantera Capital
+Galaxy Digital
+BH Digital(Brevan Howard Digital)
+…","Nov 05, 2025"
+Future,CeFi,Strategic,$34.76M,"Fulgur Ventures
+Nakamoto","Nov 05, 2025"
 Tharimmune,CeFi,Post-IPO,$540.00M,"Liberty City Ventures
 DRW Venture Capital
 Kraken
@@ -7,6 +30,13 @@ Liquid,DeFi,Seed,$7.60M,"Paradigm
 General Catalyst
 Ashwin Ramachandran
 …","Nov 04, 2025"
+Canaan,Others,Post-IPO,$72.00M,"Galaxy Digital
+BH Digital(Brevan Howard Digital)","Nov 04, 2025"
+Zynk,Infrastructure,Seed,$5.00M,"Hivemind Ventures
+Coinbase Ventures
+Alliance
+…","Nov 04, 2025"
+lava,CeFi,Undisclosed,$200.00M,Anthony Pompliano,"Nov 04, 2025"
 "Donut
 DONUT",Infrastructure,Seed,$15.00M,"Hack VC
 BITKRAFT Ventures
@@ -28,38 +58,29 @@ Oasis Labs
 Candaq Fintech Group","Oct 31, 2025"
 "Semantic Layer
 42",Infrastructure,Series A,$2.00M,Greenfield Capital,"Oct 31, 2025"
-DeepSafe( Prev. Bool Network),Infrastructure,Seed,$3.00M,"Cogitent Ventures
-Spark Digital Capital
-Gate Ventures
-…","Oct 30, 2025"
-Metalpha,CeFi,Post-IPO,$12.00M,Avenir Group,"Oct 30, 2025"
-Capybobo,Others,Undisclosed,$8.00M,"Pluto.Vision
-Animoca Brands
-Hashkey Capital
-…","Oct 30, 2025"
-dare market,Others,Undisclosed,$2.00M,"Karatage
-Paper Ventures","Oct 30, 2025"
-HEALTH,Web3,Seed,$2.50M,"Castrum Capital
-GemHead Capital","Oct 30, 2025"
-OpenMind,Infrastructure,Undisclosed,--,Pi Network,"Oct 30, 2025"
-Accountable,Web3,Undisclosed,$7.50M,"Pantera Capital
-OKX Ventures","Oct 29, 2025"
-Prenetics,CeFi,Post-IPO,$48.00M,"Kraken
-Exodus
-DL HOLDINGS
-…","Oct 28, 2025"
-ZAR,CeFi,Undisclosed,$12.90M,"Andreessen Horowitz(a16z)
-Dragonfly Capital
+Rift,DeFi,Undisclosed,$8.00M,Paradigm,"Nov 08, 2025"
+Kyo Finance,DeFi,Series A,$5.00M,"BuzzBridge Capital
+Castrum Capital
+TB Ventures
+…","Nov 07, 2025"
+commonware,Infrastructure,Undisclosed,$25.00M,Tempo,"Nov 07, 2025"
+Sprinter,Infrastructure,Seed,$5.20M,"Robot Ventures
+Atka
+Topology Ventures
+…","Nov 06, 2025"
+Funes,Infrastructure,Undisclosed,--,YZi Labs (Formerly: Binance Labs),"Nov 06, 2025"
+fomo,DeFi,Series A,$17.00M,"Benchmark
 Coinbase Ventures
-…","Oct 28, 2025"
-"Kite AI
-KITE",Infrastructure,Strategic,--,Coinbase Ventures,"Oct 27, 2025"
-"StraitsX
-XUSD",Infrastructure,Undisclosed,$10.00M,NTT Docomo Ventures,"Oct 25, 2025"
-Depinsim,Infrastructure,Strategic,$8.00M,"Outlier Ventures
-DWF Labs
-Mask Network
-…","Oct 24, 2025"
+Archetype
+…","Nov 06, 2025"
+Harmonic,Infrastructure,Seed,$6.00M,Paradigm,"Nov 05, 2025"
+"Ripple
+XRP",Infrastructure,Undisclosed,$500.00M,"Pantera Capital
+Galaxy Digital
+BH Digital(Brevan Howard Digital)
+…","Nov 05, 2025"
+Future,CeFi,Strategic,$34.76M,"Fulgur Ventures
+Nakamoto","Nov 05, 2025"
 Tharimmune,CeFi,Post-IPO,$540.00M,"Liberty City Ventures
 DRW Venture Capital
 Kraken
@@ -68,6 +89,13 @@ Liquid,DeFi,Seed,$7.60M,"Paradigm
 General Catalyst
 Ashwin Ramachandran
 …","Nov 04, 2025"
+Canaan,Others,Post-IPO,$72.00M,"Galaxy Digital
+BH Digital(Brevan Howard Digital)","Nov 04, 2025"
+Zynk,Infrastructure,Seed,$5.00M,"Hivemind Ventures
+Coinbase Ventures
+Alliance
+…","Nov 04, 2025"
+lava,CeFi,Undisclosed,$200.00M,Anthony Pompliano,"Nov 04, 2025"
 "Donut
 DONUT",Infrastructure,Seed,$15.00M,"Hack VC
 BITKRAFT Ventures
@@ -89,38 +117,29 @@ Oasis Labs
 Candaq Fintech Group","Oct 31, 2025"
 "Semantic Layer
 42",Infrastructure,Series A,$2.00M,Greenfield Capital,"Oct 31, 2025"
-DeepSafe( Prev. Bool Network),Infrastructure,Seed,$3.00M,"Cogitent Ventures
-Spark Digital Capital
-Gate Ventures
-…","Oct 30, 2025"
-Metalpha,CeFi,Post-IPO,$12.00M,Avenir Group,"Oct 30, 2025"
-Capybobo,Others,Undisclosed,$8.00M,"Pluto.Vision
-Animoca Brands
-Hashkey Capital
-…","Oct 30, 2025"
-dare market,Others,Undisclosed,$2.00M,"Karatage
-Paper Ventures","Oct 30, 2025"
-HEALTH,Web3,Seed,$2.50M,"Castrum Capital
-GemHead Capital","Oct 30, 2025"
-OpenMind,Infrastructure,Undisclosed,--,Pi Network,"Oct 30, 2025"
-Accountable,Web3,Undisclosed,$7.50M,"Pantera Capital
-OKX Ventures","Oct 29, 2025"
-Prenetics,CeFi,Post-IPO,$48.00M,"Kraken
-Exodus
-DL HOLDINGS
-…","Oct 28, 2025"
-ZAR,CeFi,Undisclosed,$12.90M,"Andreessen Horowitz(a16z)
-Dragonfly Capital
+Rift,DeFi,Undisclosed,$8.00M,Paradigm,"Nov 08, 2025"
+Kyo Finance,DeFi,Series A,$5.00M,"BuzzBridge Capital
+Castrum Capital
+TB Ventures
+…","Nov 07, 2025"
+commonware,Infrastructure,Undisclosed,$25.00M,Tempo,"Nov 07, 2025"
+Sprinter,Infrastructure,Seed,$5.20M,"Robot Ventures
+Atka
+Topology Ventures
+…","Nov 06, 2025"
+Funes,Infrastructure,Undisclosed,--,YZi Labs (Formerly: Binance Labs),"Nov 06, 2025"
+fomo,DeFi,Series A,$17.00M,"Benchmark
 Coinbase Ventures
-…","Oct 28, 2025"
-"Kite AI
-KITE",Infrastructure,Strategic,--,Coinbase Ventures,"Oct 27, 2025"
-"StraitsX
-XUSD",Infrastructure,Undisclosed,$10.00M,NTT Docomo Ventures,"Oct 25, 2025"
-Depinsim,Infrastructure,Strategic,$8.00M,"Outlier Ventures
-DWF Labs
-Mask Network
-…","Oct 24, 2025"
+Archetype
+…","Nov 06, 2025"
+Harmonic,Infrastructure,Seed,$6.00M,Paradigm,"Nov 05, 2025"
+"Ripple
+XRP",Infrastructure,Undisclosed,$500.00M,"Pantera Capital
+Galaxy Digital
+BH Digital(Brevan Howard Digital)
+…","Nov 05, 2025"
+Future,CeFi,Strategic,$34.76M,"Fulgur Ventures
+Nakamoto","Nov 05, 2025"
 Tharimmune,CeFi,Post-IPO,$540.00M,"Liberty City Ventures
 DRW Venture Capital
 Kraken
@@ -129,6 +148,13 @@ Liquid,DeFi,Seed,$7.60M,"Paradigm
 General Catalyst
 Ashwin Ramachandran
 …","Nov 04, 2025"
+Canaan,Others,Post-IPO,$72.00M,"Galaxy Digital
+BH Digital(Brevan Howard Digital)","Nov 04, 2025"
+Zynk,Infrastructure,Seed,$5.00M,"Hivemind Ventures
+Coinbase Ventures
+Alliance
+…","Nov 04, 2025"
+lava,CeFi,Undisclosed,$200.00M,Anthony Pompliano,"Nov 04, 2025"
 "Donut
 DONUT",Infrastructure,Seed,$15.00M,"Hack VC
 BITKRAFT Ventures
@@ -150,35 +176,3 @@ Oasis Labs
 Candaq Fintech Group","Oct 31, 2025"
 "Semantic Layer
 42",Infrastructure,Series A,$2.00M,Greenfield Capital,"Oct 31, 2025"
-DeepSafe( Prev. Bool Network),Infrastructure,Seed,$3.00M,"Cogitent Ventures
-Spark Digital Capital
-Gate Ventures
-…","Oct 30, 2025"
-Metalpha,CeFi,Post-IPO,$12.00M,Avenir Group,"Oct 30, 2025"
-Capybobo,Others,Undisclosed,$8.00M,"Pluto.Vision
-Animoca Brands
-Hashkey Capital
-…","Oct 30, 2025"
-dare market,Others,Undisclosed,$2.00M,"Karatage
-Paper Ventures","Oct 30, 2025"
-HEALTH,Web3,Seed,$2.50M,"Castrum Capital
-GemHead Capital","Oct 30, 2025"
-OpenMind,Infrastructure,Undisclosed,--,Pi Network,"Oct 30, 2025"
-Accountable,Web3,Undisclosed,$7.50M,"Pantera Capital
-OKX Ventures","Oct 29, 2025"
-Prenetics,CeFi,Post-IPO,$48.00M,"Kraken
-Exodus
-DL HOLDINGS
-…","Oct 28, 2025"
-ZAR,CeFi,Undisclosed,$12.90M,"Andreessen Horowitz(a16z)
-Dragonfly Capital
-Coinbase Ventures
-…","Oct 28, 2025"
-"Kite AI
-KITE",Infrastructure,Strategic,--,Coinbase Ventures,"Oct 27, 2025"
-"StraitsX
-XUSD",Infrastructure,Undisclosed,$10.00M,NTT Docomo Ventures,"Oct 25, 2025"
-Depinsim,Infrastructure,Strategic,$8.00M,"Outlier Ventures
-DWF Labs
-Mask Network
-…","Oct 24, 2025"
