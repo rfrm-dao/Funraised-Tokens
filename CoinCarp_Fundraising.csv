@@ -1,10 +1,21 @@
 Project,Category,Funding Round,Amount,Investors,Funding Date
+Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
+Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
+Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
+Initial Capital
+Ark Labs","Mar 17, 2026"
+Keyban,Others,Pre-Seed,$0.58M,--,"Mar 17, 2026"
 Capital B,InfrastructureOthers,Post-IPO,$3.47M,UTXO Management,"Mar 17, 2026"
+TransFi,InfrastructureCeFi,Series A,$14.20M,Turing Financial Group,"Mar 17, 2026"
 Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
 dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
+Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
+Basics Capital
+ArkStream Capital
+…","Mar 17, 2026"
 RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
 Jerry Yang","Mar 17, 2026"
 Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
@@ -35,30 +46,23 @@ Ark,Infrastructure,Seed,$5.20M,"Anchorage
 Tether
 Draper Associates
 …","Mar 12, 2026"
-OP NET,Infrastructure,Undisclosed,$5.00M,"Further Ventures
-Morningstar Ventures
-Anagram
-…","Mar 12, 2026"
-PERPTools,DeFi,Seed,$3.00M,Orderly Network,"Mar 12, 2026"
-"Immunefi
-IMU",Web3,Strategic,--,Anchorage,"Mar 11, 2026"
-"Kled AI
-KLED",Web3,Seed,$5.50M,"K5 Global
-Aglaé Ventures","Mar 11, 2026"
-KAST,CeFi,Series A,$80.00M,"QED Investors
-Left Lane Capital
-HSG(Formerly Sequoia Capital China)
-…","Mar 09, 2026"
-Zcash Open Development Lab,Others,Seed,$25.00M,"Paradigm
-Andreessen Horowitz(a16z)
-Coinbase Ventures
-…","Mar 09, 2026"
+Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
+Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
+Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
+Initial Capital
+Ark Labs","Mar 17, 2026"
+Keyban,Others,Pre-Seed,$0.58M,--,"Mar 17, 2026"
 Capital B,InfrastructureOthers,Post-IPO,$3.47M,UTXO Management,"Mar 17, 2026"
+TransFi,InfrastructureCeFi,Series A,$14.20M,Turing Financial Group,"Mar 17, 2026"
 Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
 dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
+Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
+Basics Capital
+ArkStream Capital
+…","Mar 17, 2026"
 RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
 Jerry Yang","Mar 17, 2026"
 Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
@@ -89,30 +93,23 @@ Ark,Infrastructure,Seed,$5.20M,"Anchorage
 Tether
 Draper Associates
 …","Mar 12, 2026"
-OP NET,Infrastructure,Undisclosed,$5.00M,"Further Ventures
-Morningstar Ventures
-Anagram
-…","Mar 12, 2026"
-PERPTools,DeFi,Seed,$3.00M,Orderly Network,"Mar 12, 2026"
-"Immunefi
-IMU",Web3,Strategic,--,Anchorage,"Mar 11, 2026"
-"Kled AI
-KLED",Web3,Seed,$5.50M,"K5 Global
-Aglaé Ventures","Mar 11, 2026"
-KAST,CeFi,Series A,$80.00M,"QED Investors
-Left Lane Capital
-HSG(Formerly Sequoia Capital China)
-…","Mar 09, 2026"
-Zcash Open Development Lab,Others,Seed,$25.00M,"Paradigm
-Andreessen Horowitz(a16z)
-Coinbase Ventures
-…","Mar 09, 2026"
+Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
+Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
+Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
+Initial Capital
+Ark Labs","Mar 17, 2026"
+Keyban,Others,Pre-Seed,$0.58M,--,"Mar 17, 2026"
 Capital B,InfrastructureOthers,Post-IPO,$3.47M,UTXO Management,"Mar 17, 2026"
+TransFi,InfrastructureCeFi,Series A,$14.20M,Turing Financial Group,"Mar 17, 2026"
 Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
 dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
+Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
+Basics Capital
+ArkStream Capital
+…","Mar 17, 2026"
 RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
 Jerry Yang","Mar 17, 2026"
 Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
@@ -143,21 +140,3 @@ Ark,Infrastructure,Seed,$5.20M,"Anchorage
 Tether
 Draper Associates
 …","Mar 12, 2026"
-OP NET,Infrastructure,Undisclosed,$5.00M,"Further Ventures
-Morningstar Ventures
-Anagram
-…","Mar 12, 2026"
-PERPTools,DeFi,Seed,$3.00M,Orderly Network,"Mar 12, 2026"
-"Immunefi
-IMU",Web3,Strategic,--,Anchorage,"Mar 11, 2026"
-"Kled AI
-KLED",Web3,Seed,$5.50M,"K5 Global
-Aglaé Ventures","Mar 11, 2026"
-KAST,CeFi,Series A,$80.00M,"QED Investors
-Left Lane Capital
-HSG(Formerly Sequoia Capital China)
-…","Mar 09, 2026"
-Zcash Open Development Lab,Others,Seed,$25.00M,"Paradigm
-Andreessen Horowitz(a16z)
-Coinbase Ventures
-…","Mar 09, 2026"
