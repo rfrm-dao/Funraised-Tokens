@@ -1,4 +1,45 @@
 Project,Category,Funding Round,Amount,Investors,Funding Date
+Startale Labs,Web3Infrastructure,Series A,$63.00M,"Sony Innovation Fund
+SBI Group","Mar 26, 2026"
+Kairos,DeFi,Seed,$2.40M,"Lattice Capital
+6th Man Ventures(6MV)
+Advancit Capital
+…","Mar 25, 2026"
+Watch.fun,Web3,Undisclosed,$8.60M,"Solana Ventures
+Crypto.com Capital
+Animoca Brands
+…","Mar 25, 2026"
+Payy,Infrastructure,Seed,$6.00M,"FirstMark
+Robot Ventures
+DBA","Mar 25, 2026"
+Tori Finance,DeFi,Undisclosed,--,Delphi Ventures,"Mar 25, 2026"
+Eureka Builder,Infrastructure,Seed,$6.70M,"Spark Capital
+Collider Ventures
+Reverie
+…","Mar 25, 2026"
+Catapult,DeFi,Undisclosed,--,KuCoin Ventures,"Mar 23, 2026"
+PeakAI,Others,Seed,$2.00M,"Cogitent Ventures
+CatcherVC
+PAKA
+…","Mar 23, 2026"
+Origins Network,Others,Undisclosed,$8.00M,"Animoca Brands
+TB Ventures
+Candaq Fintech Group
+…","Mar 23, 2026"
+Eunice.ai,Others,Seed,$79.80M,"Speedinvest
+Openspace Ventures
+Nathan McCauley
+…","Mar 23, 2026"
+Bluesky,Others,Series B,$100.00M,"Bain Capital Crypto
+Alumni Ventures Group
+True Ventures
+…","Mar 20, 2026"
+"Kalshi
+KALSHI",DeFi,Undisclosed,$1.00B,Coatue Management,"Mar 20, 2026"
+Myriad,Others,Seed,--,"Moonpay
+Bubblemaps
+Auros Ventures
+…","Mar 20, 2026"
 Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
 Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
 Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
@@ -11,41 +52,47 @@ Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
-dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
-Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
-Basics Capital
-ArkStream Capital
-…","Mar 17, 2026"
-RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
-Jerry Yang","Mar 17, 2026"
-Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
-Ironlight,Others,Series A,$21.00M,--,"Mar 16, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$80.00M,BitMine,"Mar 16, 2026"
-Yumi Finance,DeFi,Seed,--,"Colosseum
-Kevin Sekniqi
-Arnold Lee
-…","Mar 13, 2026"
-MetaComp,CeFi,Pre-Series A,$13.00M,Alibaba,"Mar 13, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$125.00M,"Kraken
-ARK Investment Management LLC (ARK Invest)
-BitMine","Mar 13, 2026"
-VeryAI,Infrastructure,Seed,$10.00M,"Polychain Capital
-Anagram
-Anatoly Yakovenko
-…","Mar 12, 2026"
-Cryptio,CeFi,Series B,$45.00M,"Sentinel Global
-1kx
-BlueYard Capital
-…","Mar 12, 2026"
-"Unitas
-UP",DeFi,Seed,$13.33M,"Amber Group
-Bixin Ventures
-SevenX Ventures
-…","Mar 12, 2026"
-Ark,Infrastructure,Seed,$5.20M,"Anchorage
-Tether
-Draper Associates
-…","Mar 12, 2026"
+Startale Labs,Web3Infrastructure,Series A,$63.00M,"Sony Innovation Fund
+SBI Group","Mar 26, 2026"
+Kairos,DeFi,Seed,$2.40M,"Lattice Capital
+6th Man Ventures(6MV)
+Advancit Capital
+…","Mar 25, 2026"
+Watch.fun,Web3,Undisclosed,$8.60M,"Solana Ventures
+Crypto.com Capital
+Animoca Brands
+…","Mar 25, 2026"
+Payy,Infrastructure,Seed,$6.00M,"FirstMark
+Robot Ventures
+DBA","Mar 25, 2026"
+Tori Finance,DeFi,Undisclosed,--,Delphi Ventures,"Mar 25, 2026"
+Eureka Builder,Infrastructure,Seed,$6.70M,"Spark Capital
+Collider Ventures
+Reverie
+…","Mar 25, 2026"
+Catapult,DeFi,Undisclosed,--,KuCoin Ventures,"Mar 23, 2026"
+PeakAI,Others,Seed,$2.00M,"Cogitent Ventures
+CatcherVC
+PAKA
+…","Mar 23, 2026"
+Origins Network,Others,Undisclosed,$8.00M,"Animoca Brands
+TB Ventures
+Candaq Fintech Group
+…","Mar 23, 2026"
+Eunice.ai,Others,Seed,$79.80M,"Speedinvest
+Openspace Ventures
+Nathan McCauley
+…","Mar 23, 2026"
+Bluesky,Others,Series B,$100.00M,"Bain Capital Crypto
+Alumni Ventures Group
+True Ventures
+…","Mar 20, 2026"
+"Kalshi
+KALSHI",DeFi,Undisclosed,$1.00B,Coatue Management,"Mar 20, 2026"
+Myriad,Others,Seed,--,"Moonpay
+Bubblemaps
+Auros Ventures
+…","Mar 20, 2026"
 Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
 Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
 Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
@@ -58,41 +105,47 @@ Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
-dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
-Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
-Basics Capital
-ArkStream Capital
-…","Mar 17, 2026"
-RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
-Jerry Yang","Mar 17, 2026"
-Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
-Ironlight,Others,Series A,$21.00M,--,"Mar 16, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$80.00M,BitMine,"Mar 16, 2026"
-Yumi Finance,DeFi,Seed,--,"Colosseum
-Kevin Sekniqi
-Arnold Lee
-…","Mar 13, 2026"
-MetaComp,CeFi,Pre-Series A,$13.00M,Alibaba,"Mar 13, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$125.00M,"Kraken
-ARK Investment Management LLC (ARK Invest)
-BitMine","Mar 13, 2026"
-VeryAI,Infrastructure,Seed,$10.00M,"Polychain Capital
-Anagram
-Anatoly Yakovenko
-…","Mar 12, 2026"
-Cryptio,CeFi,Series B,$45.00M,"Sentinel Global
-1kx
-BlueYard Capital
-…","Mar 12, 2026"
-"Unitas
-UP",DeFi,Seed,$13.33M,"Amber Group
-Bixin Ventures
-SevenX Ventures
-…","Mar 12, 2026"
-Ark,Infrastructure,Seed,$5.20M,"Anchorage
-Tether
-Draper Associates
-…","Mar 12, 2026"
+Startale Labs,Web3Infrastructure,Series A,$63.00M,"Sony Innovation Fund
+SBI Group","Mar 26, 2026"
+Kairos,DeFi,Seed,$2.40M,"Lattice Capital
+6th Man Ventures(6MV)
+Advancit Capital
+…","Mar 25, 2026"
+Watch.fun,Web3,Undisclosed,$8.60M,"Solana Ventures
+Crypto.com Capital
+Animoca Brands
+…","Mar 25, 2026"
+Payy,Infrastructure,Seed,$6.00M,"FirstMark
+Robot Ventures
+DBA","Mar 25, 2026"
+Tori Finance,DeFi,Undisclosed,--,Delphi Ventures,"Mar 25, 2026"
+Eureka Builder,Infrastructure,Seed,$6.70M,"Spark Capital
+Collider Ventures
+Reverie
+…","Mar 25, 2026"
+Catapult,DeFi,Undisclosed,--,KuCoin Ventures,"Mar 23, 2026"
+PeakAI,Others,Seed,$2.00M,"Cogitent Ventures
+CatcherVC
+PAKA
+…","Mar 23, 2026"
+Origins Network,Others,Undisclosed,$8.00M,"Animoca Brands
+TB Ventures
+Candaq Fintech Group
+…","Mar 23, 2026"
+Eunice.ai,Others,Seed,$79.80M,"Speedinvest
+Openspace Ventures
+Nathan McCauley
+…","Mar 23, 2026"
+Bluesky,Others,Series B,$100.00M,"Bain Capital Crypto
+Alumni Ventures Group
+True Ventures
+…","Mar 20, 2026"
+"Kalshi
+KALSHI",DeFi,Undisclosed,$1.00B,Coatue Management,"Mar 20, 2026"
+Myriad,Others,Seed,--,"Moonpay
+Bubblemaps
+Auros Ventures
+…","Mar 20, 2026"
 Republic,CeFi,Undisclosed,--,Hamilton Lane,"Mar 19, 2026"
 Avalanche Foundation,Infrastructure,Strategic,--,Animoca Brands,"Mar 19, 2026"
 Lendasat,Others,Pre-Seed,--,"Fulgur Ventures
@@ -105,38 +158,3 @@ Current,DeFi,Undisclosed,--,"Sui
 OKX Ventures
 Comma3 Ventures
 …","Mar 17, 2026"
-dtcpay,Infrastructure,Series A,$10.00M,Vertex Ventures,"Mar 17, 2026"
-Gency AI,Others,Undisclosed,$20.00M,"MH Ventures
-Basics Capital
-ArkStream Capital
-…","Mar 17, 2026"
-RoboForce,Infrastructure,Undisclosed,$52.00M,"YZi Labs (Formerly: Binance Labs)
-Jerry Yang","Mar 17, 2026"
-Metaplanet,CeFi,Debt Financing,$255.00M,--,"Mar 16, 2026"
-Ironlight,Others,Series A,$21.00M,--,"Mar 16, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$80.00M,BitMine,"Mar 16, 2026"
-Yumi Finance,DeFi,Seed,--,"Colosseum
-Kevin Sekniqi
-Arnold Lee
-…","Mar 13, 2026"
-MetaComp,CeFi,Pre-Series A,$13.00M,Alibaba,"Mar 13, 2026"
-"Eightco Holdings, Inc.",CeFi,Undisclosed,$125.00M,"Kraken
-ARK Investment Management LLC (ARK Invest)
-BitMine","Mar 13, 2026"
-VeryAI,Infrastructure,Seed,$10.00M,"Polychain Capital
-Anagram
-Anatoly Yakovenko
-…","Mar 12, 2026"
-Cryptio,CeFi,Series B,$45.00M,"Sentinel Global
-1kx
-BlueYard Capital
-…","Mar 12, 2026"
-"Unitas
-UP",DeFi,Seed,$13.33M,"Amber Group
-Bixin Ventures
-SevenX Ventures
-…","Mar 12, 2026"
-Ark,Infrastructure,Seed,$5.20M,"Anchorage
-Tether
-Draper Associates
-…","Mar 12, 2026"
